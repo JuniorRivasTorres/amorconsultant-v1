@@ -36,6 +36,8 @@ const Footer = () => {
                             <FooterLink to='/'>Investors'</FooterLink>
                             <FooterLink to='/'>Terms of Service'</FooterLink>
                         </FooterLinksItems>
+                    </FooterLinksWrapper>
+                    <FooterLinksWrapper> 
                         <FooterLinksItems>
                             <FooterLinkTitle>Videos</FooterLinkTitle>
                             <FooterLink to='/'>sign-up'</FooterLink>
